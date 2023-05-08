@@ -5,3 +5,6 @@
 for i in range (1;3)
   te ganamos en madrid
 ```
+- [ ] Pratto
+- [ ] Quintero
+- [x] Martinez
